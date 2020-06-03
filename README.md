@@ -14,5 +14,5 @@ Ex: PORT = 1234
 
 Routes
 
-get('/') -> will show all the data in the database
+get('/') -> will show all the data in the database,
 post('/add) -> will add a new entry in the database
